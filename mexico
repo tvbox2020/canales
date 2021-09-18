@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="772" tvg-name="Canal Once Mexico" tvg-logo="https://www.m3u.cl/logo/772_Canal_Once_Mexico.png", Canal Once Mexico | MX
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="662" tvg-name="Canal 15 Zacatecas" tvg-logo="https://www.m3u.cl/logo/662_Canal_15_Zacatecas.png", Canal 15 Zacatecas | MX
+https://5e50264bd6766.streamlock.net:443/canal15zac/smil:canal15zac.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="665" tvg-name="Canal Once Nacional" tvg-logo="https://www.m3u.cl/logo/665_Canal_Once_Nacional.png", Canal Once Nacional | MX
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://www.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png", SIZART Canal 24 Zacatecas | MX
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", STAR CHANNEL
+http://ipeteve.com/php/SR_REGIO_130921_/th.php?channel=vf0rrk9x&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", TNT
+http://ipeteve.com/php/SR_REGIO_130921_/th.php?channel=ntn_ll1l&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", NAT GEO
+http://ipeteve.com/php/SR_REGIO_130921_/th.php?channel=rr_99rrr&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", DISCOVERY ID
+http://ipeteve.com/php/SR_REGIO_130921_/th.php?channel=1d_lg55&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", HISTORY CHANNEL
+http://ipeteve.com/php/SR_REGIO_130921_/th.php?channel=vc_bt33&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", CARTOON NETWORK
+http://ipeteve.com/php/SR_REGIO_130921_/th.php?channel=3kkctoon&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", TLNOVELAS
+http://ipeteve.com/php/SR_REGIO_130921_/th.php?channel=tn_5100&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", DISNEY CHANNEL
+http://ipeteve.com/php/SR_REGIO_130921_/th.php?channel=dk_0155&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", NICK
+http://ipeteve.com/php/SR_REGIO_130921_/th.php?channel=teen920&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", CINEMAX
+http://ipeteve.com/php/SR_REGIO_130921_/th.php?channel=cc_m99x&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", SPACE
+http://ipeteve.com/php/SR_REGIO_130921_/th.php?channel=kx_rrt22&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", DISCOVERY CHANNEL
+http://ipeteve.com/php/SR_REGIO_130921_/th.php?channel=dt_ll99&f=.m3u8
